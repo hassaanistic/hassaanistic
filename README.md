@@ -2,7 +2,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)
 
 <h1 align="center">Hi 👋, I'm Hassaan</h1>
-<h3 align="center">A passionate frontend developer from Pakistan.</h3>
+<h3 align="center">A passionate WEB developer from Pakistan.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassaanistic&label=Profile%20views&color=0e75b6&style=flat" alt="hassaanistic" /> </p>
 
@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **imhassaan.dev@gmail.com**
 
-- ⚡ Fun fact **I am a good Photographer.**
+- ⚡ Fun fact **I am a good Photographer and I've intereset in learning web technologies.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
