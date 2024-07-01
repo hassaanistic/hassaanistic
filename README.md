@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/hassaanistic" target="blank"><img src="https://img.shields.io/twitter/follow/hassaanistic?logo=twitter&style=for-the-badge" alt="hassaanistic" /></a> </p>
 
-- 🔭 I’m currently working on **NoteFlow**
+- 🔭 I’m currently working on **ByteMart**
 
 - 🌱 I’m currently learning **MERN stack**
 
