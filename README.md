@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/hassaanistic" target="blank"><img src="https://img.shields.io/twitter/follow/hassaanistic?logo=twitter&style=for-the-badge" alt="hassaanistic" /></a> </p>
 
-- 🔭 I’m currently working on **NEXT & SHOPIFY**
+- 🔭 I’m currently working on **NEXT JS**
 
 - 🌱 I’m currently learning **NEST**
 
@@ -25,8 +25,8 @@
 <a href="https://twitter.com/hassaanistic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hassaanistic" height="30" width="40" /></a>
 <a href="https://fb.com/hassaanistic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hassaanistic" height="30" width="40" /></a>
 <a href="https://instagram.com/hassaanistic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hassaanistic" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/hassaanistic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hassaanistic" height="30" width="40" /></a>
-<a href="https://discord.gg/hassaanistic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hassaanistic" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC1rkVvJdAfDmnmppVWk4g0w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hassaanistic" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
